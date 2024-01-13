@@ -1,5 +1,5 @@
 # .DS_Sto- SHUT THE FUCK UP!!!
-dstfu is a nice macos utility that deletes `.DS_Store` files off of your systema and actively monitors file changes to find `.DS_Store` writes and delets any new `.DS_Store`s created.
+dstfu is a nice macos utility that deletes `.DS_Store` files off of your system and actively monitors file changes to find `.DS_Store` writes and delets any new `.DS_Store`s created.
 
 ## Building:
 `make build`
